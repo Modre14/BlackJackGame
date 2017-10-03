@@ -9,3 +9,14 @@ c:\users\morten\documents\visual studio 2017\Projects\BlackJackGame\BlackJackGam
 c:\users\morten\documents\visual studio 2017\Projects\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp2.0\BlackJackGame.dll
 c:\users\morten\documents\visual studio 2017\Projects\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp2.0\BlackJackGame.pdb
 C:\Users\Morten\documents\visual studio 2017\Projects\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp2.0\BlackJackGame.csprojResolveAssemblyReference.cache
+C:\Users\Morten\Source\Repos\BlackJackGame\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp2.0\BlackJackGame.deps.json
+C:\Users\Morten\Source\Repos\BlackJackGame\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp2.0\BlackJackGame.runtimeconfig.json
+C:\Users\Morten\Source\Repos\BlackJackGame\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp2.0\BlackJackGame.runtimeconfig.dev.json
+C:\Users\Morten\Source\Repos\BlackJackGame\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp2.0\BlackJackGame.dll
+C:\Users\Morten\Source\Repos\BlackJackGame\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp2.0\BlackJackGame.pdb
+C:\Users\Morten\Source\Repos\BlackJackGame\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp2.0\BlackJackGame.csprojResolveAssemblyReference.cache
+C:\Users\Morten\Source\Repos\BlackJackGame\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp2.0\BlackJackGame.csproj.CoreCompileInputs.cache
+C:\Users\Morten\Source\Repos\BlackJackGame\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp2.0\BlackJackGame.AssemblyInfoInputs.cache
+C:\Users\Morten\Source\Repos\BlackJackGame\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp2.0\BlackJackGame.AssemblyInfo.cs
+C:\Users\Morten\Source\Repos\BlackJackGame\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp2.0\BlackJackGame.dll
+C:\Users\Morten\Source\Repos\BlackJackGame\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp2.0\BlackJackGame.pdb
