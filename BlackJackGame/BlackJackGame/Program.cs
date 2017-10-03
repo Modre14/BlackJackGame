@@ -7,6 +7,7 @@ namespace BlackJackGame
         static void Main(string[] args)
         {
             CardDeck cd = new CardDeck();
+            
             Console.ReadLine();
         }
     }

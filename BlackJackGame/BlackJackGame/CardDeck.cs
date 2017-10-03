@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 /// <summary>
 /// Summary description for Class1
@@ -17,9 +18,11 @@ public class CardDeck
 	            cardDeck.Add(card);
 	        }
 	    }
-        
-	   
 
-	}
-    
+    }
+
+    private void ShuffelDeck()
+    {
+        
+    }
 }
